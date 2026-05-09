@@ -16,8 +16,7 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 **耐思云官网最新地址**:
 [官网](https://nicecloud.co/register?aff=lBM0BUEN)
 
-[![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)](https://go.1vpn.cc/nisi)
-
+[![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)]
 ## 耐思云机场特点
 * 流量充足，定价偏低，属于便宜的机场梯子；
 * 入口数量多，常用热门节点香港日本等均单独配置入口，稳定性高；
@@ -43,11 +42,11 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 耐思云机场套餐定价灵活，从月付16.99元到43.99元（**[优惠码]NICECLOUD**），均可支持流媒体解锁，能够满足绝大部分的应用落地与不同的用户需求，更针对轻量翻墙用户提供永久有效流量包，属于极高性价比机场梯子。
 
 ## 耐思云机场测速(晚高峰油管4K)
-[![耐思云油管速度.jpg](https://s2.loli.net/2023/12/08/FdC5OV1eDJiNTwu.jpg)](https://go.1vpn.cc/nisi)
+[![耐思云油管速度.jpg](https://s2.loli.net/2023/12/08/FdC5OV1eDJiNTwu.jpg)]
 
 ## 耐思云多端支持和详细教程
 
-![[081082de-6a97-4df0-9c92-c3dcdacf3d77.png]]
+![[081082de-6a97-4df0-9c92-c3dcdacf3d77.png|云多端支持和教程]]
 
 ## 机场官网打不开?(==耐思云官网备用地址==)
 耐思云机场由境外专业大型运维实体运营，跑路风险非常小。

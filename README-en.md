@@ -1,5 +1,7 @@
 # NiceCloud (India, Germany & Turkey Nodes - Ultra Stable, YouTube Premium Members Exclusive, AI Enthusiasts' Choice!)
 
+[English](README-en.md) | [中文](README.md)
+
 **NiceCloud** - A highly popular VPN service in 2026 featuring numerous stable, high-speed niche server nodes.
 
 Where do you want to go? YouTube, Telegram, Facebook - all accessible!

@@ -166,16 +166,6 @@
             }
           },
           {
-            "id": "4293ac325ac9ab6d",
-            "type": "leaf",
-            "state": {
-              "type": "github-issue-controls-view",
-              "state": {},
-              "icon": "github",
-              "title": "Github Issue Controls"
-            }
-          },
-          {
             "id": "29e4ec5651976362",
             "type": "leaf",
             "state": {
@@ -186,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4293ac325ac9ab6d",
+  "active": "29e4ec5651976362",
   "lastOpenFiles": [
     "assets/微信图片_20251111152050_38_17.png",
     "assets/微信图片_20251111152107_39_17.png",

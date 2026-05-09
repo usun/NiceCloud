@@ -1,5 +1,7 @@
 ## NiceCloud (印度、德国和土耳其节点超级稳定，youtube打折会员专用，AI玩家之选，你懂的！！！)
 
+[English](README-en.md) | [中文](README.md)
+
 2026 非常受欢迎的机场推荐---奈丝云 [NiceCloud](https://nicecloud.co/register?aff=lBM0BUEN)，包含众多稳定高速冷门机场节点。
 
 油管、飞机、脸书你想去哪里？都可以~

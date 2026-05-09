@@ -1,0 +1,16 @@
+name: Sync to Gitee
+
+on:
+  push:
+    branches: [main, master]  # 触发分支，按需修改
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync GitHub to Gitee
+        uses: abersheeran/sync-gitee-mirror@v1-beta
+        with:
+          repository: ${{ secrets.GITEE_USER }}/NiceCloud
+          username: ${{ secrets.GITEE_USER }}
+          password: ${{ secrets.GITEE_PASSWORD }}

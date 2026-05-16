@@ -20,7 +20,7 @@ NiceCloud is a stable, affordable, high-quality SS/SSR VPN service with multiple
 ## Official Website
 
 **NiceCloud Official Website:**
-[Website](https://nicecloud.co/register?aff=lBM0BUEN)
+[Website](https://nicecloud.cyou/register?aff=lBM0BUEN)
 
 [![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)]
 
@@ -62,6 +62,7 @@ Sometimes the website may be inaccessible due to ongoing network restrictions. D
 
 * [Backup Link 1](https://nicecloud.me/register?aff=lBM0BUEN)
 * [Backup Link 2](https://nicecloud.cyou/register?aff=lBM0BUEN)
+* [Backup Link 3](https://nicecloud.co/register?aff=lBM0BUEN)
 
 ## How is NiceCloud?
 

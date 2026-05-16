@@ -2,7 +2,7 @@
 
 [English](README-en.md) | [中文](README.md)
 
-2026 非常受欢迎的机场推荐---奈丝云 [NiceCloud](https://nicecloud.co/register?aff=lBM0BUEN)，包含众多稳定高速冷门机场节点。
+2026 非常受欢迎的机场推荐---奈丝云 [NiceCloud](https://nicecloud.cyou/register?aff=lBM0BUEN)，包含众多稳定高速冷门机场节点。
 
 油管、飞机、脸书你想去哪里？都可以~
 
@@ -17,7 +17,7 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 ## 耐思云官网
 
 **耐思云官网最新地址**:
-[官网](https://nicecloud.co/register?aff=lBM0BUEN)
+[官网](https://nicecloud.cyou/register?aff=lBM0BUEN)
 
 [![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)]
 ## 耐思云机场特点
@@ -60,7 +60,8 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 你可以打开翻墙梯子登录官网，或者通过下面的耐思云机场备用地址进入。
 
 * [耐思云官网备用地址一](https://nicecloud.me/register?aff=lBM0BUEN)
-* [耐思云官网备用地址二](https://nicecloud.cyou/register?aff=lBM0BUEN)
+* [耐思云官网备用地址二](https://nicecloud.co/register?aff=lBM0BUEN)
+* [耐思云官网备用地址三](https://nicecloud.cyou/register?aff=lBM0BUEN)
 
 ## 耐思云机场怎么样？
 
@@ -68,10 +69,11 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 
 ## 耐思云机场-折扣优惠
 
-[**机场折扣优惠码**] NICECLOUD(不适用于按量套餐)，最新优惠以官网为准。
+机场折扣邀请码：[lBM0BUEN](https://nicecloud.cyou/register?aff=lBM0BUEN)，最新优惠以官方活动为准。
 
-
-**温馨提示：任何服务均有失联风险，多关注官网动态，请注意防范！**
+**温馨提示：**
+- 都懂得，机场站域名常有遭遇污染风险，需留意官方最新直连地址，建议关注项目更新！
+- 本页面仅分享信息，有问题请自行联系服务商处理！
 
 
 

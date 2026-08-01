@@ -4,7 +4,7 @@
 
 2026 非常受欢迎的机场推荐---奈丝云 [NiceCloud](https://nicecloud.cyou/register?aff=lBM0BUEN)，包含众多稳定高速冷门机场节点。
 
-油管、飞机、脸书你想去哪里？都可以~
+油管、飞机、脸书你想去哪里？都可以  ~nice
 
 AI玩家的性价比之选：Claude的逻辑能力、GPT的世界知识、Gemini的长文本处理、Midjourney的绘图审美……这些“生产力怪兽”都可以拥有。
 ## 耐思云机场(nice) | 2026 

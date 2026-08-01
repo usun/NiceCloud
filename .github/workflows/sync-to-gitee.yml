@@ -2,15 +2,18 @@ name: Sync to Gitee
 
 on:
   push:
-    branches: [main, master]  # 触发分支，按需修改
+    branches: [main, master]
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - name: Sync GitHub to Gitee
-        uses: abersheeran/sync-gitee-mirror@v1-beta
+        uses: Yikun/hub-mirror-action@master
         with:
-          repository: ${{ secrets.GITEE_USER }}/NiceCloud
-          username: ${{ secrets.GITEE_USER }}
-          password: ${{ secrets.GITEE_PASSWORD }}
+          src: github/${{ github.repository_owner }}
+          dst: gitee/${{ secrets.GITEE_USER }}
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: NiceCloud
+          force_update: true

@@ -2,7 +2,8 @@
 
 [English](README-en.md) | [中文](README.md)
 
-2026 非常受欢迎的机场推荐---奈丝云 [NiceCloud](https://nicecloud.cyou/register?aff=lBM0BUEN)，包含众多稳定高速冷门机场节点。
+2026 非常受欢迎的机场推荐---奈丝云 [Nice Cloud](https://nicecloud.org/register?code=lBM0BUEN)，包含众多稳定高速冷门机场节点。
+
 
 油管、飞机、脸书你想去哪里？都可以  ~nice
 
@@ -17,8 +18,8 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 
 **耐思云官网最新地址**:
 
-[官网](https://nicecloud.cyou/register?aff=lBM0BUEN)
-注册别忘了邀请码，[lBM0BUEN](https://nicecloud.cyou/register?aff=lBM0BUEN)，享充值折扣，以官方活动为准。
+[官网：https://nicecloud.org](https://nicecloud.org/register?code=lBM0BUEN)
+注册别忘了邀请码，[lBM0BUEN](https://nicecloud.org/register?code=lBM0BUEN)，享充值折扣，以官方活动为准。
 
 [![奈絲韻.jpg](https://s2.loli.net/2023/11/21/dFAnPqGciwMJo9W.jpg)]
 ## 耐思云机场特点
@@ -44,7 +45,7 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 
 ![耐思云价格图3](assets/微信图片_20251111152050_38_17.png)  
 
-耐思云机场套餐定价灵活，从月付16.99元到43.99元（**[优惠码]NICECLOUD**），均可支持流媒体解锁，能够满足绝大部分的应用落地与不同的用户需求，更针对轻量翻墙用户提供永久有效流量包，属于极高性价比机场梯子。
+耐思云机场套餐定价灵活，从月付16.99元到43.99元（**优惠码 ：NICECLOUD**），均可支持流媒体解锁，能够满足绝大部分的应用落地与不同的用户需求，更针对轻量翻墙用户提供永久有效流量包，属于极高性价比机场梯子。
 
 ## 耐思云机场测速(晚高峰油管4K)
 
@@ -60,18 +61,21 @@ NiceCloud 耐思云，稳定好用便宜的优质SS/SSR机场，也是入口数�
 有时候耐思云机场官网打不开，是因为长城防火墙持续的侦测屏蔽，不要担心。
 你可以打开翻墙梯子登录官网，或者通过下面的耐思云机场备用地址进入。
 
-* [耐思云官网备用地址一](https://nicecloud.me/register?aff=lBM0BUEN)
-* [耐思云官网备用地址二](https://nicecloud.co/register?aff=lBM0BUEN)
-* [耐思云官网备用地址三](https://nicecloud.cyou/register?aff=lBM0BUEN)
+* [耐思云官网备用地址一](https://nicecloud.org/register?code=lBM0BUEN)
+* [耐思云官网备用地址二](https://nicecloud.co/register?code=lBM0BUEN)
+* [耐思云官网备用地址三](https://nicecloud.cyou/register?code=lBM0BUEN)
+* [耐思云官网备用地址四](https://nicecloud.me/register?code=lBM0BUEN)
 
-注册别忘了邀请码，[lBM0BUEN](https://nicecloud.cyou/register?aff=lBM0BUEN)，享充值折扣，以官方活动为准。
+注册别忘了邀请码，[lBM0BUEN](https://nicecloud.org/register?code=lBM0BUEN)，享充值折扣，以官方活动为准。
+
+⚠️ 重要提醒：由于当前村内网络环境变化，请务必牢记备用访问地址，请及时关注官网发布的最新公告与通知，以便在特殊情况下保持正常访问。
 ## 耐思云机场怎么样？
 
 耐思云是我们首选的机场推荐，稳定好用的梯子节点和便宜的价格迅速在市场获得不俗的口碑。经过本站近三个多月的机场测速，晚高峰期间也能秒开4K视频不卡顿，表现远远好于某些严重超卖又不舍得扩容的所谓老牌机场。而且NiceCloud机场梯子套餐灵活，可提供永久有效流量套餐，基本覆盖大部分用户的不同外网翻墙需求。如果你需要高性价比机场梯子，那么选择NiceCloud耐思云机场绝不会错。
 
 ## 耐思云机场-折扣优惠
 
-注册别忘了邀请码，[lBM0BUEN](https://nicecloud.cyou/register?aff=lBM0BUEN)，享充值折扣，以官方活动为准。
+注册别忘了邀请码，[lBM0BUEN](https://nicecloud.org/register?code=lBM0BUEN)，享充值折扣，以官方活动为准。
 
 ---
 
